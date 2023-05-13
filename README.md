@@ -12,7 +12,7 @@ D / Right Arrow Key : Right Turn / Initiate Drifting
 The car in the game is vaugely modeled after the infamous **AE86 Panda Trueno**, that was used in the Anime and Manga as the car used by the main character.
 The track however is not modeled on the basis of the Anime or Manga, and is not Mountain Pass (Touge).
 
-=========================================================================================================================
+===========================================================================
 ![IMAGE1](https://github.com/ArnavKucheriya/InitialDrift/blob/main/Images/Screenshot%20(62).png)
 
 ![IMAGE2](https://github.com/ArnavKucheriya/InitialDrift/blob/main/Images/Screenshot%20(63).png)
